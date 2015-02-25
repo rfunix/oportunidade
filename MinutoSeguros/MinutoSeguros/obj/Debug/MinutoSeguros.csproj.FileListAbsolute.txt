@@ -1,0 +1,13 @@
+c:\users\rafael.francischini.alfa\documents\visual studio 2013\Projects\MinutosSeguros\MinutosSeguros\bin\Debug\MinutosSeguros.exe.config
+c:\users\rafael.francischini.alfa\documents\visual studio 2013\Projects\MinutosSeguros\MinutosSeguros\bin\Debug\MinutosSeguros.exe
+c:\users\rafael.francischini.alfa\documents\visual studio 2013\Projects\MinutosSeguros\MinutosSeguros\bin\Debug\MinutosSeguros.pdb
+c:\users\rafael.francischini.alfa\documents\visual studio 2013\Projects\MinutosSeguros\MinutosSeguros\obj\Debug\MinutosSeguros.exe
+c:\users\rafael.francischini.alfa\documents\visual studio 2013\Projects\MinutosSeguros\MinutosSeguros\obj\Debug\MinutosSeguros.pdb
+c:\users\rafael.francischini.alfa\documents\visual studio 2013\Projects\MinutosSeguros\MinutosSeguros\obj\Debug\MinutoSeguros.csprojResolveAssemblyReference.cache
+C:\Users\rafael.francischini.ALFA\Documents\Visual Studio 2013\Projects\MinutosSeguros\MinutosSeguros\bin\Debug\MinutoSeguros.exe.config
+C:\Users\rafael.francischini.ALFA\Documents\Visual Studio 2013\Projects\MinutoSeguros\MinutoSeguros\bin\Debug\MinutoSeguros.exe.config
+C:\Users\rafael.francischini.ALFA\Documents\Visual Studio 2013\Projects\MinutoSeguros\MinutoSeguros\bin\Debug\MinutoSeguros.exe
+C:\Users\rafael.francischini.ALFA\Documents\Visual Studio 2013\Projects\MinutoSeguros\MinutoSeguros\bin\Debug\MinutoSeguros.pdb
+C:\Users\rafael.francischini.ALFA\Documents\Visual Studio 2013\Projects\MinutoSeguros\MinutoSeguros\obj\Debug\MinutoSeguros.csprojResolveAssemblyReference.cache
+C:\Users\rafael.francischini.ALFA\Documents\Visual Studio 2013\Projects\MinutoSeguros\MinutoSeguros\obj\Debug\MinutoSeguros.exe
+C:\Users\rafael.francischini.ALFA\Documents\Visual Studio 2013\Projects\MinutoSeguros\MinutoSeguros\obj\Debug\MinutoSeguros.pdb
